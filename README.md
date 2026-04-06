@@ -200,20 +200,6 @@ The build creates a `build` folder that can be deployed to:
 **Theme not persisting?**
 - Check localStorage permissions
 - Try in incognito mode
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 📞 Support
-
 For questions or issues:
 - Open an issue on GitHub
 - Check the troubleshooting section
